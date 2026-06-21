@@ -37,5 +37,5 @@ The project is structured into four main tasks:
 Ensemble models demonstrated the highest predictive capability on this dataset. The **Random Forest Classifier** emerged as the optimal model, outperforming both the Decision Tree and Logistic Regression models in Accuracy, Precision, and F1-Score, while effectively minimizing false classifications.
 
 ## Author
-* **[Your Name]** * **Matric No:** [Your Matric Number]
-* **Department:** [Your Department]
+* **Adeoluwa Adebiyi** * **Matric No:** KDUCSC23001
+* **Department:** COMPUTER SCIENCE
